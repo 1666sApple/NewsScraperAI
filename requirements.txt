@@ -1,0 +1,12 @@
+django==5.1.7
+python-jose==3.4.0
+jwt==1.3.1
+djangorestframework==3.15.2
+langchain==0.3.20
+langchain_core==0.3.43
+langchain_groq==0.2.5
+langchain_ollama==0.2.3
+selenium==4.29.0
+scrapy==2.12.0
+requests==2.32.3
+beautifulsoup4==4.13.3
